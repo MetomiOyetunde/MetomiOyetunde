@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Front end and back end
 - 🌱 I’m currently learning ... Product Design
 - 💞️ I’m looking to collaborate on ... Graphic Design
-- 📫 How to reach me ...chat me up
+- 📫 How to reach me ...chat me up on +234 706 879 1122
 
 <!---
 MetomiOyetunde/MetomiOyetunde is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
